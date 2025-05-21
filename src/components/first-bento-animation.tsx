@@ -70,7 +70,7 @@ export function FirstBentoAnimation() {
             }}
           >
             <p className="text-sm">
-              Hey, I need to verify someone's identity and pull up their background info quickly. Can you help me find the most reliable data source?
+              Hey, I need to verify someone&apos;s identity and pull up their background info quickly. Can you help me find the most reliable data source?
             </p>
           </motion.div>
           <div className="flex items-center bg-background rounded-full w-fit border border-border flex-shrink-0">
